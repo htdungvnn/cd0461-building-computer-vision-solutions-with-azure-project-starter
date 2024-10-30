@@ -1,0 +1,12 @@
+azure-cognitiveservices-vision-computervision==0.9.0
+azure-cognitiveservices-vision-customvision==3.1.0
+azure-cognitiveservices-vision-face==0.6.0
+azure-common==1.1.28
+azure-core==1.30.1
+azure-identity==1.16.0
+azure-storage-blob==12.20.0
+jupyter_client==8.6.2
+jupyter_core==5.7.2
+jupyter_server==2.14.0
+pillow==10.3.0
+pyarrow==16.1.0
